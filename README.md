@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Project Management, System and Business Analyst**
 
-- 📄 Know about my experiences [I have Experience in System Analyst and Agile Project Management, but now i try to learn python and AI Engineering](I have Experience in System Analyst and Agile Project Management, but now i try to learn python and AI Engineering)
+- 📄 Know about my experiences I have Experience in System Analyst and Agile Project Management, but now i try to learn python and AI Engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
