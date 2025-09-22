@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Batri</h1>
-<h3 align="center">Iam a Master Student in Informatics Engineering, and also working as a Civil Servant</h3>
+<h3 align="center">👋 Hey there!, hailing from the beautiful Payakumbuh in West Sumatera. Currently, I’m diving deep into my Master’s studies in Informatics while balancing my role as a Civil Servant. 
+
+With a background in Software Engineering as a System Analyst and Project Manager, I’ve had the chance to work on some exciting projects that blend tech and creativity. Right now, I’m on a journey to master Python programming, AI Engineering, and Prompt Engineering. 🚀
+
+I love connecting with fellow tech enthusiasts and exchanging ideas about the latest trends in the industry. Let’s collaborate, innovate, and make a positive impact together! Feel free to reach out! 😊</h3>
 
 - 🔭 I’m currently working on **Implementing Generative AI for Government and Civil Servant**
 
